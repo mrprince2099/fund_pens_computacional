@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2b2bcd;
+}
+
+header{
+background-color: #800000;
+}
+
+h1{
+background-color: #daa520;
+}
+
+nav{
+background-color: #2b2bcd;
+}
+
+ul,li{
+background-color: #7fff00;
+}
+
+section{
+background-color: #006400;
+}
+
+article{
+background-color: #ff00ff;
+}
+
+footer{
+background-color: #7fffd4;
+}
