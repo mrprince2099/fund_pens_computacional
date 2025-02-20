@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+
+/* serve para criar comentario no CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: hsl(0, 100%, 99%);
+
+}
+
+h1 {
+    color: darkmagenta;
+    text-align: center;
+    margin-top: 7px;
+}
+
+h2 {
+    color: darkgoldenrod;
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    color: #000000;
+    font-size: x-large;
+    border: solid black;
+
+}
+
+#tubarao {
+    background-color: #0404deeb;
+    color: #000000;
+    font-size: x-large;
+    border: #9d350f;
+}
+
+#latrel {
+    background-color: #ff7f50;
+    color: #dc143c;
+    font-size: larger;
+    border: orange;
+    
+}
